@@ -15,12 +15,14 @@ org <- "https://github.com/rokko-ma17q4/"
 
 ## Assignments
 
+Assignments with prefix "hw" are mandatory and those with "ex" are optional (you'll get bonus points).
+
 ```{r, echo=FALSE, warning=FALSE}
 pdata <- data %>% 
   mutate(ID = paste0("[", ID, "](", org, ID ,")")) %>%
   mutate(`Invitation Link` = paste0("[Get Invitation]", "(", Link, ")")) %>% 
-  select(ID, Deadline, Description, `Invitation Link`, Solution) %>%
-  arrange(lubridate::mdy_hm(Deadline))
+  select(ID, `Suggested Deadline`, Description, `Invitation Link`, Solution) %>%
+  arrange(lubridate::mdy_hm(`Suggested Deadline`))
 knitr::kable(pdata)
 ```
 

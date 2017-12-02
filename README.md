@@ -7,9 +7,11 @@ Homework Assignments and optional exercises for Macroeconomics Q4 @ GSEcon, Kobe
 Assignments
 -----------
 
-| ID                                           | Deadline | Description | Invitation Link      | Solution |
-|:---------------------------------------------|:---------|:------------|:---------------------|:---------|
-| [hw01](https://github.com/rokko-ma17q4/hw01) | NA       | Setup       | [Get Invitation](NA) | NA       |
+Assignments with prefix "hw" are mandatory and those with "ex" are optional (you'll get bonus points).
+
+| ID                                           | Suggested Deadline  | Description | Invitation Link                                           | Solution     |
+|:---------------------------------------------|:--------------------|:------------|:----------------------------------------------------------|:-------------|
+| [hw01](https://github.com/rokko-ma17q4/hw01) | 2017-12-07 18:00:00 | Setup       | [Get Invitation](https://classroom.github.com/a/dwvchs3E) | Not Provided |
 
 Submission record
 -----------------
