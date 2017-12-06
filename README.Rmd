@@ -26,6 +26,10 @@ pdata <- data %>%
 knitr::kable(pdata)
 ```
 
+### DataCamp
+
+Need more help with R? Enrolled students have full access to the  [DataCamp](www.datacamp.com) courses for six months. Check your inbox.
+
 ## Submission record
 
 Don't you forget to open a Pull Request? See this [list of PRs](https://github.com/issues?utf8=%E2%9C%93&q=is%3Apr+user%3Arokko-ma17q4). 

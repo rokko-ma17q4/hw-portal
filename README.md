@@ -12,6 +12,11 @@ Assignments with prefix "hw" are mandatory and those with "ex" are optional (you
 | ID                                           | Suggested Deadline  | Description | Invitation Link                                           | Solution     |
 |:---------------------------------------------|:--------------------|:------------|:----------------------------------------------------------|:-------------|
 | [hw01](https://github.com/rokko-ma17q4/hw01) | 2017-12-07 18:00:00 | Setup       | [Get Invitation](https://classroom.github.com/a/dwvchs3E) | Not Provided |
+| [hw02](https://github.com/rokko-ma17q4/hw02) | 2017-12-11 18:00:00 | PWT         | [Get Invitation](https://classroom.github.com/a/hrUqMBqb) | NA           |
+
+### DataCamp
+
+Need more help with R? Enrolled students have full access to the [DataCamp](www.datacamp.com) courses for six months. Check your inbox.
 
 Submission record
 -----------------
