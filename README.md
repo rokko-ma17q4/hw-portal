@@ -16,12 +16,12 @@ Assignments with prefix "hw" are mandatory and those with "ex" are optional (you
 Submission record
 -----------------
 
-Don't you forget to open a Pull Request? See this [list of PRs](https://github.com/issues?utf8=%E2%9C%93&q=is%3Apr+user%3Arokko-ma17q2).
+Don't you forget to open a Pull Request? See this [list of PRs](https://github.com/issues?utf8=%E2%9C%93&q=is%3Apr+user%3Arokko-ma17q4).
 
 Additional Information
 ----------------------
 
-If you plan to use at a computer at the computer lab, you might want to know several techniques to install applications on Mac. See [hw-portal/Wiki](https://github.com/rokko-ma17q2/hw-portal/wiki)
+If you plan to use at a computer at the computer lab, you might want to know several techniques to install applications on Mac. See [hw-portal/Wiki](https://github.com/rokko-ma17q4/hw-portal/wiki)
 
 Here is a series of notes concerning R, R Markdown and related stuff.
 
