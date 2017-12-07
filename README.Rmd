@@ -32,7 +32,7 @@ Need more help with R? Enrolled students have full access to the  [DataCamp](www
 
 ## Submission record
 
-Don't you forget to open a Pull Request? See this [list of PRs](https://github.com/issues?utf8=%E2%9C%93&q=is%3Apr+user%3Arokko-ma17q4). 
+Didn’t you forget to perform a Pull Request? See this [list of PRs](https://github.com/issues?utf8=%E2%9C%93&q=is%3Apr+user%3Arokko-ma17q4). 
 
 ## Additional Information
 
@@ -43,5 +43,6 @@ know several techniques to install applications on Mac. See [hw-portal/Wiki](htt
 Here is a series of notes concerning R, R Markdown and related stuff.
 
 * [Quick Tutorial for R Markdown](https://cdn.rawgit.com/kenjisato/tips/2e4d7a9d/rmarkdown-basic/basic.html)
+* [Quick guide to writing mathematical symbols in R using LaTeX](https://econgit.github.io/en/post/2017/04/latex-codes-for-math/)
 
 
