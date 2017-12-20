@@ -15,6 +15,7 @@ Assignments with prefix "hw" are mandatory and those with "ex" are optional (you
 | [hw02](https://github.com/rokko-ma17q4/hw02) | 2017-12-11 18:00:00 | PWT         | [Get Invitation](https://classroom.github.com/a/hrUqMBqb) | NA           |
 | [hw03](https://github.com/rokko-ma17q4/hw03) | 2017-12-14 18:00:00 | Euler       | [Get Invitation](https://classroom.github.com/a/Iw8kWPRC) | NA           |
 | [hw04](https://github.com/rokko-ma17q4/hw04) | 2017-12-18 18:00:00 | Graph       | [Get Invitation](https://classroom.github.com/a/q_RWQ_YI) | NA           |
+| [mid](https://github.com/rokko-ma17q4/mid)   | 2018-01-11 18:00:00 | Midterm     | [Get Invitation](https://classroom.github.com/a/NiQCB9xB) | NA           |
 
 ### DataCamp
 
